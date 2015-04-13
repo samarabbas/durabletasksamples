@@ -83,7 +83,6 @@
   <ItemGroup>
     <Compile Include="Helpers.cs" />
     <Compile Include="Options.cs" />
-    <Compile Include="OrchestrationConsoleTraceListener.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UtilitySignup\CustomerAddress.cs" />
