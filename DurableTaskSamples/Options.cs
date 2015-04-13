@@ -10,7 +10,7 @@
         public bool CreateHub { get; set; }
 
         [Option('s', "start-instance", DefaultValue = null,
-            HelpText = "Start new instance.  Suported Orchestrations: 'Signup'.")]
+            HelpText = "Start new instance.  Supported Orchestrations: 'Signup'.")]
         public string StartInstance { get; set; }
 
         [Option('i', "instance-id",
